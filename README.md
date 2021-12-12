@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JV
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Software Development using Javascript, Python, Go and other tools or Frameworks the i'm interested
 - 🌱 I’m currently learning Backend and Frontend Frameworks as well as DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
