@@ -1,6 +1,6 @@
 # Hi there, I’m Julius Rosario - aka JV 👋 
-- 👀 I’m interested in Software Development using Javascript, Python, Go and other tools or Frameworks
-- 🌱 I’m currently learning Backend and Frontend Frameworks as well as DevOps
+- 👀 I’m interested and passionate to learn Software Development using Javascript, Python, Go and other tools or Frameworks as well as DevOps, Backend and Frontend Development
+- 🌱 I’m currently a student of FEU TECH taking Bachelor of Science in Information Technology specialized in Service Management and Business Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
