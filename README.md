@@ -84,7 +84,7 @@
   
   ## Technologies that i want to explore and learn more
   
-  <div style="margin-bottom:10px;">
+  <div>
     <kbd>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="60" />
   </kbd>
@@ -109,6 +109,6 @@
   </kbd>
   
   </div>
-  ```
-  🌱In Addition, i want to learn more about Go Language especially in web development using Fiber frameworks, Gin and Gorilla
-  ```
+  
+  🌱 In Addition, i want to learn more about Go Language especially in web development using Fiber frameworks, Gin and Gorilla
+  
