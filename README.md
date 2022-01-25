@@ -1,14 +1,14 @@
-# Hi there, I’m Julius Rosario - aka JV 👋 
+# Hi there, I’m Julius Victor Rosario - aka JV<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100" />
 
 <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="460" align="center" />
 </p>
 
-### 📖 About Me �dev𝚎𝚕𝚘𝚙𝚎About Me𝚛
+### 📖 About Me
 - 👀 I’m interested and passionate to learn Software Development using Javascript, Python, Go and other tools or Frameworks as well as DevOps, Backend and Frontend Development
 - 🎓 I’m currently a 4th year student of FEU TECH taking Bachelor of Science in Information Technology specialized in Service Management and Business Analytics
-- 💞️ Right now, i'm looking for internship jobs to experience software developement challenges and get a chance to contribute to the working software project of the company. In that, i will also able to show my skills, knowledge and determination to become successful in this profession. 
-- 📫🌱 How to reach me ...
+- 💼 Right now, i'm looking for internship jobs to experience software developement challenges and get a chance to contribute to the working software project of the company. In that, i will also able to show my skills, knowledge and determination to become successful in this profession. 
+- 📞 How to reach me ...
 
 ## Programming Languages
 <div>
@@ -111,5 +111,5 @@
   
   </div>
   <br>
-  🌱 In Addition, i want to learn more about Go Language especially in web development using Fiber frameworks, Gin and Gorilla
+  🌱 In Addition, i want to learn more about Go Language especially in web development, microservices and API using Fiber frameworks, Gin and Gorilla
   
