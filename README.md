@@ -7,7 +7,7 @@
 ### 📖 About Me
 - 👀 I’m interested and passionate to learn Software Development using Javascript, Python, Go and other tools or Frameworks as well as DevOps, Backend and Frontend Development
 - 🎓 I’m currently a 4th year student of FEU TECH taking Bachelor of Science in Information Technology specialized in Service Management and Business Analytics
-- 💼 Right now, i'm looking for internship jobs to experience software developement challenges and get a chance to contribute to the working software project of the company. In that, i will also able to show my skills, knowledge and determination to become successful in this profession. 
+- 💼 Right now, i'm looking for internship jobs to experience software development challenges and get a chance to contribute to the working software project of the company. In that, i will also able to show my skills, knowledge and determination to become successful in this profession. 
 - 📞 How to reach me ...
 
 ## Programming Languages
