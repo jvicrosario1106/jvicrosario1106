@@ -33,6 +33,8 @@
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
   </kbd>
-  
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="60" />
+  </kbd>
   
 </div>
