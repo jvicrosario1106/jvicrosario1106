@@ -15,13 +15,14 @@
     <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60"/> 
   </kbd>
   
-    <kbd>
+  <kbd>
     <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="60"/> 
   </kbd>
   
   <kbd>
     <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" width="60"/> 
   </kbd>
+  
 </div>
 
 ## Frameworks and libraries
