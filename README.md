@@ -84,7 +84,7 @@
   
   ## Technologies that i want to explore and learn more
   
-  <div>
+  <div style="margin-bottom:10px;">
     <kbd>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="60" />
   </kbd>
