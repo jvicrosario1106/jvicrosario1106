@@ -82,7 +82,7 @@
   
   </div>
   
-  ## The next frameworks, tools and programming languages that i want to explore and learn more
+  ## Technologies that i want to explore and learn more
   
   <div>
     <kbd>
