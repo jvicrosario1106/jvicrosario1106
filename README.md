@@ -80,6 +80,32 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" />
   </kbd>
   
-    
-    
+  </div>
+  
+  ## The next frameworks, tools and programming languages that i want to explore and learn more
+  
+  <div>
+    <kbd>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="60" />
+  </kbd>
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="60" />
+  </kbd>
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
+  </kbd>
+  
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" />
+  </kbd>
+  
+   <kbd>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" />
+  </kbd>
+  
+  
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" />
+  </kbd>
+  
   </div>
