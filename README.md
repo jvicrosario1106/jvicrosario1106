@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" />
 
 ## Programming Languages
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60"/>
-
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60"/>
-
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60"/>
+<div display="flex">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60"/> 
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="60"/> 
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" width="60"/>
+</div>
