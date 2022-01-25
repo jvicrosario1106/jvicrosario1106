@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Julius Rosario - aka JV 😁
+# Hi there, I’m Julius Rosario - aka JV 👋 
 - 👀 I’m interested in Software Development using Javascript, Python, Go and other tools or Frameworks
 - 🌱 I’m currently learning Backend and Frontend Frameworks as well as DevOps
 - 💞️ I’m looking to collaborate on ...
