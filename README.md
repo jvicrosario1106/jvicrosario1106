@@ -13,9 +13,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Programming Languages
 <div>
-  <kbd>
-<img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60"/> 
+  <kbd style="margin:10px">
+    <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60"/> 
   </kbd>
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="60"/> 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" width="60"/>
+    <kbd>
+    <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="60"/> 
+  </kbd>
+  <kbd>
+    <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" width="60"/> 
+  </kbd>
 </div>
