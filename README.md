@@ -53,3 +53,34 @@
   </kbd>
   
 </div>
+
+## Tools and Databases
+<div>
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="60"/>
+  </kbd>
+  
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" />
+  </kbd>
+  
+  
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="60" />
+  </kbd>
+    
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" />
+  </kbd>
+  
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
+  </kbd>
+  
+  <kbd>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" />
+  </kbd>
+  
+    
+    
+  </div>
