@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 <div>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60"/> 
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="60"/> 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/docker.svg" width="60"/>
 </div>
