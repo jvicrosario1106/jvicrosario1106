@@ -9,4 +9,4 @@ jvicrosario1106/jvicrosario1106 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" /> About me
+### <span><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" /> About me</span>
