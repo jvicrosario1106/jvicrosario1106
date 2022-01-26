@@ -10,6 +10,14 @@
 - 💼 Right now, i'm looking for internship jobs to experience software development challenges and get a chance to contribute to the working software project of the company. In that, i will also able to show and enhance my skills, knowledge and determination to become successful in this profession. 
 - 📞 How to reach me ...
 
+### 📌 Interest
+- Metaverse
+- Blockchain  
+- R&B/Soul Music
+- Space Exploration
+- Marvel Cinematic Universe (MCU)
+
+
 ## Programming Languages
 <div>
   <kbd>
