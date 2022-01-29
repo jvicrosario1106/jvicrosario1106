@@ -133,4 +133,4 @@
 
 ### My Stats 📈
 
-[![JV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvicrosario1106&theme=blue-green)]
+![JV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvicrosario1106&theme=blue-green)
