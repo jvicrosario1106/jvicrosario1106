@@ -9,9 +9,10 @@
 ![Forthebadge-not-a-bug-a-feature](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
 
 ### 📖 About Me
+
 - 👀 I’m interested and passionate to learn Software Development using Javascript, Python, Go and other tools or Frameworks as well as DevOps, Backend and Frontend Development
 - 🎓 I’m currently a 4th year student of FEU TECH taking Bachelor of Science in Information Technology specialized in Service Management and Business Analytics
-- 💼 Right now, i'm looking for internship jobs to experience software development challenges and get a chance to contribute to the software projects of the company. In that, i will also able to show and enhance my skills, knowledge and determination to become successful in this profession. 
+- 💼 Right now, i'm looking for internship jobs to experience software development challenges and get a chance to contribute to the software projects of the company. In that, i will also able to show and enhance my skills, knowledge and determination to become successful in this profession.
 - 📞 How to reach me ...
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/juliusrosario06)
@@ -19,14 +20,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com.)
 
 ### 📌 Interest
+
 - Metaverse
-- Blockchain  
+- Blockchain
 - R&B/Soul Music
 - Space Exploration
 - Marvel Cinematic Universe (MCU)
 
-
 ## Programming Languages
+
 <div>
   <kbd>
     <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="60"/> 
@@ -71,6 +73,7 @@
 </div>
 
 ## Tools and Databases
+
 <div>
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="60"/>
@@ -128,9 +131,8 @@
   </div>
   <br>
   🌱 In Addition, i want to learn more about Go Language especially in web development, microservices and API using Fiber frameworks, Gin and Gorilla
-  
 
 
-### My Stats 📈
+### Stats 📈
 
 ![JV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvicrosario1106&theme=blue-green)
