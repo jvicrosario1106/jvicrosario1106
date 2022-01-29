@@ -14,7 +14,6 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com.)
 
-
 ### 📌 Interest
 - Metaverse
 - Blockchain  
@@ -126,3 +125,8 @@
   <br>
   🌱 In Addition, i want to learn more about Go Language especially in web development, microservices and API using Fiber frameworks, Gin and Gorilla
   
+
+
+### My Stats 📈
+
+[![JV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvicrosario1106&theme=blue-green)](https://github.com/jvicrosario1106/github-readme-stats)
