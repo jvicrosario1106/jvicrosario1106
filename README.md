@@ -4,6 +4,10 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="460" align="center" />
 </p>
 
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![Forthebadge-check-it-out](https://forthebadge.com/images/badges/check-it-out.svg)
+![Forthebadge-not-a-bug-a-feature](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
+
 ### 📖 About Me
 - 👀 I’m interested and passionate to learn Software Development using Javascript, Python, Go and other tools or Frameworks as well as DevOps, Backend and Frontend Development
 - 🎓 I’m currently a 4th year student of FEU TECH taking Bachelor of Science in Information Technology specialized in Service Management and Business Analytics
@@ -129,4 +133,4 @@
 
 ### My Stats 📈
 
-[![JV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvicrosario1106&theme=blue-green)](https://github.com/jvicrosario1106/github-readme-stats)
+[![JV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvicrosario1106&theme=blue-green)]
