@@ -23,6 +23,7 @@
 
 - Metaverse
 - Blockchain
+- Cloud Computing
 - R&B/Soul Music
 - Space Exploration
 - Marvel Cinematic Universe (MCU)
