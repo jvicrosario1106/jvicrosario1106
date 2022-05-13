@@ -17,7 +17,7 @@
 - 📞 How to reach me
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/juliusrosario06)
-![LinkedIn](https://www.linkedin.com/in/julius-victor-rosario-b6509222b/)
+[![LinkedIn](https://www.linkedin.com/in/julius-victor-rosario-b6509222b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com.)
 
 ### 📌 Interest
