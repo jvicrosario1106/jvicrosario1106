@@ -12,7 +12,8 @@
 
 - 👀 I’m interested and passionate to learn Software Development using Javascript, Python, Go and other tools or Frameworks as well as DevOps, Backend and Frontend Development
 - 🎓 I’m currently a 4th year student of FEU TECH taking Bachelor of Science in Information Technology specialized in Service Management and Business Analytics
-- 💼 Right now, i'm looking for internship jobs to experience software development challenges and get a chance to contribute to the software projects of the company. In that, i will also able to show and enhance my skills, knowledge and determination to become successful in this profession.
+- 💼 Right now, I'm a Artificial Intelligence Apprentice at Senti AI focusing on Web Scraping, Deploying ML model to GCP and Researching and building Machine Learning Model that can be use to the current project of the company. I hope in the end of my training and will be confident that my skills and expertise will be enhance with the help of the company.
+
 - 📞 How to reach me
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/juliusrosario06)
@@ -53,10 +54,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
   </kbd>
   <kbd>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="60" />
   </kbd>
   <kbd>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" />
   </kbd>
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" />
