@@ -43,7 +43,11 @@
   <kbd>
     <img  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" width="60"/> 
   </kbd>
-  
+
+  <kbd>
+    <img  src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/> 
+  </kbd>
+ 
 </div>
 
 ## Frameworks and libraries
