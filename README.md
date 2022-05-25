@@ -45,7 +45,7 @@
   </kbd>
 
   <kbd>
-    <img  src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/> 
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/> 
   </kbd>
  
 </div>
