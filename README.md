@@ -1,7 +1,5 @@
 # Hi there, I’m Julius Victor Rosario - aka JV<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100" />
 
-<img src="https://media.giphy.com/media/PcR2V54LA266l2W471/giphy.gif" />
-
 <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="460" align="center" />
 </p>
