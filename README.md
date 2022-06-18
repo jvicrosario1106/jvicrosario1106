@@ -13,7 +13,7 @@
 - 👀 I’m interested and passionate to learn Software Development using Javascript, Python, Go and other tools or Frameworks as well as Machine Learning, Analytics, DevOps, Backend and Frontend Development
 - 🎓 I’m currently a 4th year student of FEU TECH taking Bachelor of Science in Information Technology specialized in Service Management and Business Analytics
 - 💼 Right now, I'm a Artificial Intelligence Engineer Apprentice at Senti AI focusing on Web Scraping, Deploying ML model to GCP and Researching and building Machine Learning Model that can be use to the current project of the company. I hope in the end of my training, i will be confident about my skills and expertise that will be improved with the help of the company.
-- 🌱 Currently, I'm Learning Typescript
+- 🌱 Currently, I'm Learning React + Typescript More!
 
 - 📞 How to reach me
 
