@@ -11,7 +11,7 @@
 ### 📖 About Me
 
 - A Full Stack Software Engineer 💻
-- 👀 I’m interested and passionate to learn Software Development using Javascript, Python, Go and other tools or Frameworks as well as Machine Learning, Analytics, DevOps, Backend and Frontend Development
+- 👀 I’m interested and passionate to learn Software Development using Javascript,Typescript, Python, Go and other tools or Frameworks as well as Machine Learning, Analytics, DevOps, Backend and Frontend Development
 
 - 📞 How to reach me
 
